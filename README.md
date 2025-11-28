@@ -1,12 +1,11 @@
 # 🧮 ADA Practicals – Analysis and Design of Algorithms
 
 ### 📘 Submitted by:
-
-**Name:** Riddhima Chaturvedi
-**Roll Number:** 24293916061
-**Course:** B.Tech – Computer Science and Engineering
-**Subject:** Analysis and Design of Algorithms (ADA)
-**Semester:** 3rd
+**Name:** Riddhima Chaturvedi 
+**Roll Number:** 24293916061 
+**Course:** B.Tech – Computer Science and Engineering 
+**Subject:** Analysis and Design of Algorithms (ADA) 
+**Semester:** 3rd 
 **Academic Year:** 2025–26
 
 ---
